@@ -1,5 +1,4 @@
 # git-test
-for testing git and GitHub 
-this is added on my laptop!
+#for testing git and GitHub 
+#this is added on my laptop!
 
-adding a line
